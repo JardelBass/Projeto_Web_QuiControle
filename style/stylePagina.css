@@ -1,0 +1,87 @@
+/* 
+    Created on : 10/10/2016, 16:43:28
+    Author     : Jardel Rodrigues 
+*/
+
+/*class aria equipe QuiControle*/
+.sobre_nos{
+    padding-top: 130px;
+}
+
+.sobre_nos_foto1, .sobre_nos_foto2{
+    width: 209px;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+.sobre_nos_foto1 img{
+    width: 209px;
+    position: relative;
+    left: 30px;;
+}
+
+.sobre_nos_foto2 img{
+    width: 209px;
+    position: relative;
+    left: 60px;;
+}
+
+.sobre_nos_foto1 p,.sobre_nos_foto2 p{
+    text-align: center;
+    padding-top: 10px;
+    font-size: 20px;
+}
+
+.sobre_nos_cont{
+    text-align: justify;
+    padding-top: 20px;
+    padding-bottom: 70px;
+}
+
+.sobre_nos_vicao{
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 70px;
+    text-align: center;
+}
+
+.sobre_nos_vicao h3{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.recursos{
+    padding-top: 130px;
+}
+
+.recursos_tep{
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+.recursos_buttom{
+    border-bottom: 1px solid rgb(230,231,232);
+}
+
+.recursos_buttom button{
+    border: 0px;
+    font-size: 15px;
+    padding: 5px 35px;
+    background-color: rgb(255,255,255);
+    color: rgb(132,134,136);
+}
+
+.recursos_cot{
+    padding-top: 40px;
+    padding-bottom: 70px;
+}
+
+.recursos_cot_txt h3,.recursos_cot p{
+    position: relative;
+    left: 25px;
+    padding-bottom: 10px;
+}
+
+.recursos_img{
+    text-align: center;
+}
