@@ -10,7 +10,7 @@
                     <input type="email" value="Digite seu e-mail">
                     <button>DOWNLOAD GRÁTIS</button>
                 </form>
-                <img src="imagens/logo_windows.png" alt="Logo do windows">
+                <img src="img/logo_windows.png" alt="Logo do windows">
             </article>
         </div>
     </div>
@@ -25,7 +25,7 @@
         
         <div class="inicio_contQuerTer grid_5">
             <article>
-                <img src="imagens/icon_pc_1.png" />
+                <img src="img/icon_pc_1.png" />
                 <h3>Saiba para onde vai seu dinheiro</h3>
                 <p>Mais completo que planilhas financeiras, com o  
                 QuiControle você poderá analisar seus dados
@@ -35,7 +35,7 @@
         
         <div class="inicio_alia grid_6">
             <article>
-                <img src="imagens/icon_pc_2.png" />
+                <img src="img/icon_pc_2.png" />
                 <h3>Planejamento Financeiro</h3>
                 <p>Você pode planejar suas finanças através 
                 de metas de gastos por categoria, 
@@ -46,7 +46,7 @@
         
         <div class="inicio_contQuerTer grid_5">
             <article>
-                <img src="imagens/icon_pc_3.png" />
+                <img src="img/icon_pc_3.png" />
                 <h3>Não esqueça seus prazos</h3>
                 <p>Com QuiControle você receberá lembretes  
                 por E-mail e notificações no aplicativo de
@@ -68,7 +68,7 @@
             </article>
         </div>
         <div class="grid_7">
-            <img src="imagens/icon_pc_4.png" alt=""/>
+            <img src="img/icon_pc_4.png" alt=""/>
         </div>
     </div>
 </div>
@@ -76,7 +76,7 @@
 <div class="inicio_credito">
     <div class="container_16">
         <div class="grid_7">
-            <img src="imagens/icon_pc_5.png" alt=""/>
+            <img src="img/icon_pc_5.png" alt=""/>
         </div>
         <div class="grid_9">
             <article>
@@ -102,7 +102,7 @@
             </article>
         </div>
         <div class="grid_7">
-            <img src="imagens/icon_pc_6.png" alt=""/>
+            <img src="img/icon_pc_6.png" alt=""/>
         </div>
     </div>
 </div>

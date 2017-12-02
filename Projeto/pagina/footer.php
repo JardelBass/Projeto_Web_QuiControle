@@ -16,7 +16,7 @@
     <footer>
         <div class="container_16">
             <div class="footer_logo_qc grid_16">
-                <img src="imagens/logo.png" alt="logo QuiControle"/>
+                <img src="img/logo.png" alt="logo QuiControle"/>
             </div>
         </div>
     </footer>

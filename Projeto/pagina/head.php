@@ -1,7 +1,7 @@
 <div class="head background-azul">
     <div class="container_16">
         <div class="head_logo grid_4">
-            <a href="index.php"><img src="imagens/logo.png" alt="Logo do QuiControle"></a>  
+            <a href="index.php"><img src="img/logo.png" alt="Logo do QuiControle"></a>  
         </div>
     
         <nav class="head_nav grid_6">

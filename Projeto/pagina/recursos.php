@@ -15,7 +15,7 @@
                 com gráficos e relatórios.</p>
             </div>
             <div class="recursos_img grid_6">
-                <img src="imagens/icon_pc_1.png" alt="">
+                <img src="img/icon_pc_1.png" alt="">
             </div>
         </div>
         

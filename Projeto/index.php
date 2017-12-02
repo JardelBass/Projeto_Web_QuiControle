@@ -5,8 +5,8 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <style type="text/css">
-            @import "style/style.css";
-            @import "style/grid_16.css";
+            @import "css/style.css";
+            @import "css/grid_16.css";
         </style>
     </head>
     <body>
@@ -15,4 +15,4 @@
         ?>
     </body>
 </html>
-<style type="text/css">@import "style/stylePagina.css"</style>
+<style type="text/css">@import "css/stylePagina.css";</style>

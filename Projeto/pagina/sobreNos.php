@@ -46,13 +46,13 @@
 <div class="sobre_nos_vicao background-azul-cinza">
     <div class="container_16">
         <div class="grid_5">
-            <img src="imagens/icon_vicao.png" alt="icon de olho">
+            <img src="img/icon_vicao.png" alt="icon de olho">
             <h3>Visão</h3>
             <p>Ser a melhor e mais completa plataforma de 
             controle e educação financeira no Brasil.</p>
         </div>
         <div class="grid_6">
-            <img src="imagens/icon_auvo.png" alt="icon de uma alvo">
+            <img src="img/icon_auvo.png" alt="icon de uma alvo">
             <h3>Missão</h3>
             <p>Nos dedicamos a ajudar as pessoas a 
             realizarem seus sonhos através do 
@@ -60,7 +60,7 @@
              pessoais de forma simples e prática.</p>
         </div>
         <div class="grid_5">
-            <img src="imagens/icon_mao.png" alt="icon de mão">
+            <img src="img/icon_mao.png" alt="icon de mão">
             <h3>Valores</h3>
             <p>Qualidade, Segurança, Valorização das pessoas,
             Trabalho em equipe de forma colaboraria e
