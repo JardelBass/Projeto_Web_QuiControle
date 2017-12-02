@@ -20,13 +20,17 @@ h1 , h2, h3, h4, h5{
 
 p{
     color: rgb(132,134,136);
-    font-size: 15px;
+    font-size: 17px;
 }
 
 a{
     color: rgb(255,255,255);
     font-size: 17px;
     text-decoration: none;
+}
+
+button{
+    cursor: pointer;
 }
 
 a:hover{
@@ -95,21 +99,30 @@ input{
     padding: 15px 20px;
 }
 
-/*class head_download: aria de download site*/
-.head_download{
-    height: 50px;
+/*class head_entra*/
+.head_entrar button{
+    height: 52px;
+    font-size: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
-.head_download a{
-    padding: 15px 0px;
-    position: relative;
-    top: 9px;
+.head_entrar_botao1{
+    background-color: rgb(48,211,113);
 }
 
-.head_download a img{
+.head_entrar_botao1:hover{
+    background-color: rgb(0,168,89);
+}
+
+.head_entrar_botao2{
     position: relative;
-    top: 2px;
-    right: 5px;
+    right: 7px;
+    background-color: rgb(255,126,124);
+}
+
+.head_entrar_botao2:hover{
+    background-color: rgb(207,72,74);
 }
 
 /*class head_versao: compo de virsão do programa*/

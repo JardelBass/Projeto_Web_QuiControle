@@ -18,7 +18,7 @@
         <div class="sobre_nos_foto grid_16">
             <h3>Conheça um pouco sobre nós</h3>
         </div>
-        <div class="sobre_nos_cont grid_8">
+        <div class="sobre_nos_cont grid_16">
             <p>O QuiControle é um sistema de controle financeiro pessoal online
                 descomplicado. Foi criado em 2014 por Littbarski Santos, Dejota
                 Freitas e Jardel Rodrigues, três estudantes do curso de Sistema
@@ -30,8 +30,6 @@
                 também que isto é um problema comum de muita gente. No fim, 
                 nunca era possível dizer ao certo com o que foi gasto o dinheiro
                 de cada um.</p>
-        </div>
-        <div class="sobre_nos_cont grid_8">
             <p>Inicialmente desenvolvido apenas para smartphones Android, o 
                 QuiControle cresceu para a Web. Utilizando conceitos de rede 
                 social, design simples e bonito, todos os dados estão totalmente

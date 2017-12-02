@@ -7,6 +7,9 @@
 .sobre_nos{
     padding-top: 130px;
 }
+.sobre_nos_foto h2,.sobre_nos_foto h3{
+    text-align: center;
+}
 
 .sobre_nos_foto1, .sobre_nos_foto2{
     width: 209px;
@@ -33,9 +36,13 @@
 }
 
 .sobre_nos_cont{
-    text-align: justify;
+    text-align: center;
     padding-top: 20px;
     padding-bottom: 70px;
+}
+
+.sobre_nos_cont p{
+    font-size: 17px;
 }
 
 .sobre_nos_vicao{
@@ -52,6 +59,7 @@
 
 .recursos{
     padding-top: 130px;
+    padding-bottom: 130px;
 }
 
 .recursos_tep{
@@ -85,3 +93,19 @@
 .recursos_img{
     text-align: center;
 }
+
+.recursos_cor_1, .recursos_cor_2{
+   padding: 10px;
+}
+
+.recursos_cor_1{
+    background-color: rgb(245,250,249);
+}
+
+.recursos_cor_2{
+    background-color: rgb(147,198,216);
+}
+
+.recursos_cor_2 p{
+    color: rgb(255,255,255);
+} 

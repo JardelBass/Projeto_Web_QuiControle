@@ -12,8 +12,9 @@
             </ul>
         </nav>
        
-        <div class="head_busca grid_4">
-            
+        <div class="head_entrar grid_4">
+            <button class="head_entrar_botao1">Cadastra-se</button>
+            <button class="head_entrar_botao2">Entrar</button>
         </div>
     </div>
 </div>
